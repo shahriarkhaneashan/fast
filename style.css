@@ -1,0 +1,93 @@
+#navbarNav{
+    margin-left: 700px;
+    font-size: 15px;
+    
+}
+.first-section{
+    margin-top: 100px;
+}
+.nav-item{
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+}
+#Sign-In{
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px;
+}
+.Ready{
+    color: orange;
+    margin-bottom: 20px;
+}
+.leann{
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+h1{
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom: 40px;
+
+
+}
+.On{
+    color: green;
+}
+.standard{
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 45px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    justify-content: center;
+    
+}
+.half-width image{
+    margin-left: 150px;
+    margin-bottom: 200px;
+    
+}
+.card{
+    display: flex;
+}
+.icon{
+    
+}
+.online{
+    text-align: center;
+}
+.Buy{
+    color: white;
+    background-color: green;
+    border-radius: 30px;
+    padding: 15px;
+}
+.test{
+    padding: 20px;
+}
+.front{
+    margin-left: 100px;
+}
+.Back{
+    margin-top: 400px;
+    background-color: black;
+    width: 100px;
+    padding: 50px.;
+}
+.card{
+    
+}
+.front{
+    margin-bottom: 200px;
+}
+.fast{
+    color: white;
+}
